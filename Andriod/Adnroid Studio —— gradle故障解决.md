@@ -21,7 +21,7 @@
 
   <img src="MDpic/image-20200413133628261.png" alt="image-20200413133628261" style="zoom: 67%;" />
 
-- 管理员权限打开CMD向JAVA导入证书：
+- 管理员身份打开CMD向JAVA导入证书：
   - 执行 keytool -import -file server222.cer -keystore "%JAVA_HOME%\jre\lib\security\cacerts" -alias server 
   - -file 后面是刚导出来的 server.cer 文件路径
   - -alias server 表示别名是 server
