@@ -16,13 +16,13 @@
   >
   > 不要使其自动设置环境变量，后续手动设置较为灵活
 
-<img src="MDpic/image-20200422005449930.png" alt="image-20200422005449930" style="zoom: 67%;" />
+<img src="MDpic/image-20200422015131540.png" alt="image-20200422015131540" style="zoom:67%;" />
 
 - 系统环境变量设置
 
   > 用户变量位置的path中的Python目录不和系统环境变量中的path内的Anaconda目录共存
 
-  <img src="MDpic/image-20200422005849002.png" alt="image-20200422005849002" style="zoom: 67%;" />
+  <img src="MDpic/image-20200422005849002.png" alt="image-20200422005849002"  />
 
 ## 初始化
 
